@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+tensorflow-hub
+librosa
+soundfile
+numpy
+streamlit-autorefresh
