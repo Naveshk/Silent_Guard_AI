@@ -1,8 +1,8 @@
-# SilentGuard AI — Phase 3 Interactive Verification Update
+# SilentGuard AI —  Interactive Verification Update
 
 ## What changed
 
-This update keeps the Phase 1 YAMNet sound-classification and Phase 2 risk-mapping code, but fixes the Phase 3 interaction flow.
+This update keeps the YAMNet sound-classification and risk-mapping code, but fixes the interaction flow.
 
 ### Interactive flow
 
